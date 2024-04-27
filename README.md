@@ -1,4 +1,4 @@
-# Predictive Classification Model - March Madness Winner predictor that achieves 85% accuracy
+March Madness Mastery: Building an 85% Accurate Tournament Winner Predictor
 
 Challenge/Context: The objective of this project was to develop a classification model to predict the winner of the March Madness tournament based on historical performance data of college basketball teams.
 
